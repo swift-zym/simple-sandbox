@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.0)
 
 set(CMAKE_CXX_STANDARD 17)
 
-CMAKE_CXX_FLAGS:STRING=-fPIC
+add_compile_options(-fPIC)
 
 include_directories(${CMAKE_JS_INC})
 file(GLOB SOURCE_FILES "native/*.cc" "native/*.h")

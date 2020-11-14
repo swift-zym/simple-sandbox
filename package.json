@@ -1,6 +1,6 @@
 {
   "name": "accoders-sandbox",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A simple sandbox for Node.js using Linux namespaces and cgroup.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
