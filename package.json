@@ -1,5 +1,5 @@
 {
-  "name": "simple-sandbox",
+  "name": "simple-sandbox-ng",
   "version": "0.3.20",
   "description": "A simple sandbox for Node.js using Linux namespaces and cgroup.",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/t123yh/simple-sandbox"
+    "url": "https://github.com/swift-zym/simple-sandbox"
   },
   "keywords": [
     "sandbox",
